@@ -1,3 +1,4 @@
+
 import * as SQLite from "expo-sqlite"
 
 //Abre ou cria o banco de dados local chamado 'notas.db'
